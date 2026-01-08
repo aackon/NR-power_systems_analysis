@@ -1,3 +1,4 @@
+#numpy and sympy libraries must be installed on your python before the importation can be done
 import numpy as np
 import sympy as sp
 
